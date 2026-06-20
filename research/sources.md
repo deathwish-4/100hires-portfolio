@@ -1,6 +1,6 @@
-High-Signal Experts: AI-Powered SEO for B2B SaaS
+## High-Signal Experts: AI-Powered SEO for B2B SaaS
 
-Selection Criteria
+### Selection Criteria
 
 I filtered for active operators, agency founders, and in-house growth leads who are sharing actual data and tests against Google's Helpful Content updates, rather than theoretical advice.
 
