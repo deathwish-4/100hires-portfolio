@@ -20,8 +20,6 @@
 - **Issue 2 - The Codex Extension:** Step 3 requested the installation of a "Codex" add-on. 
   - **Solution:** Upon researching, I found that OpenAI deprecated the Codex model/API several years ago and there is no official Codex extension for Cursor. Because Cursor inherently features native AI model integration, I exercised my judgment and intentionally skipped installing a deprecated "Codex" add-on to keep my environment secure.
 
-
-
 ---
 
 ## Step 2: AI-Powered SEO Content Production - Data Collection
@@ -30,11 +28,9 @@
 
 For this research phase, I gathered high-signal content from industry practitioners, organized within the `/research` directory:
 
-* *`/research/sources.md`**: A detailed list of 10 curated experts, complete with profile links, collection dates, and brief annotations on their specific focus areas.
-
-* *`/research/youtube-transcripts/`**: Raw video transcripts pulled directly using the `youtube_transcript_api` via CLI, capturing deep-dive discussions on AI content pipelines.
-
-* *`/research/linkedin-posts/`**: Manually curated recent LinkedIn posts to capture real-time, actionable insights while respecting the platform's strict anti-scraping policies.
+- **`/research/sources.md`**: A detailed list of 10 curated experts, complete with profile links, collection dates, and brief annotations on their specific focus areas.
+- **`/research/youtube-transcripts/`**: Raw video transcripts pulled directly using the `youtube_transcript_api` via CLI, capturing deep-dive discussions on AI content pipelines.
+- **`/research/linkedin-posts/`**: Manually curated recent LinkedIn posts to capture real-time, actionable insights while respecting the platform's strict anti-scraping policies.
 
 ### Why I Chosen These Experts
 
