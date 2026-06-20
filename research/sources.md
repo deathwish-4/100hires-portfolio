@@ -16,13 +16,13 @@ I filtered for active operators, agency founders, and in-house growth leads who 
 
    * **Annotation:** International SEO Consultant & Founder of Orainti. Consistently publishes hands-on, highly technical tests of AI tools and prompt engineering for SEO workflows.
 
-3. **[Eli Schwartz]([https://www.linkedin.com/in/elischwartz/)**](https://www.linkedin.com/in/elischwartz/)**)
+3. **[Eli Schwartz]([https://www.linkedin.com/in/schwartze/)**](https://www.linkedin.com/in/schwartze/)**)
 
    * **Date Added:** June 20, 2026
 
    * **Annotation:** Author of Product-Led SEO. Focuses on using AI to build programmatic SEO databases rather than just generating generic B2B blog posts.
 
-4. **[Lily Ray]([https://www.linkedin.com/in/lilyray/)**](https://www.linkedin.com/in/lilyray/)**)
+4. **[Lily Ray]([https://www.linkedin.com/in/lily-ray-44755615/)**](https://www.linkedin.com/in/lily-ray-44755615/)**)
 
    * **Date Added:** June 20, 2026
 
@@ -32,9 +32,9 @@ I filtered for active operators, agency founders, and in-house growth leads who 
 
    * **Date Added:** June 20, 2026
 
-   * **Annotation:** Founder of Siege Media. Runs a premier B2B content agency and provides highly realistic breakdowns of what AI can and cannot do for content velocity.
+   * **Annotation:** Founder of Siege Media. They provide full-service GEO services through consulting, affiliate, content marketing and PR. Past and current clients include Intuit, Zendesk, Casper, TripAdvisor, Shutterfly, Asana and more.
 
-6. **[Gael Breton]([https://twitter.com/GaelBreton)**](https://twitter.com/GaelBreton)**)
+6. **[Gael Breton]([https://www.linkedin.com/in/gael-breton/)**](https://www.linkedin.com/in/gael-breton/)**)
 
    * **Date Added:** June 20, 2026
 
@@ -46,20 +46,20 @@ I filtered for active operators, agency founders, and in-house growth leads who 
 
    * **Annotation:** Co-founder of Clearscope. Builds the actual AI semantic tools B2B companies use to rank; deep understanding of search intent and NLP.
 
-8. **[Jess Scholz]([https://www.linkedin.com/in/jessicascholz/)**](https://www.linkedin.com/in/jessicascholz/)**)
+8. **[Cyrus Shepard]([https://www.linkedin.com/in/cyrusshepard/)**](https://www.linkedin.com/in/cyrusshepard/)**)
 
    * **Date Added:** June 20, 2026
 
-   * **Annotation:** Former CMO at Ringier. Forward-thinking operator focusing on optimizing B2B content for LLM retrieval (Perplexity, ChatGPT) rather than just traditional Google search.
+   * **Annotation:** Founder of Zyppy SEO. He actively tests and shares data on Google's algorithm changes, Helpful Content updates, and the real impact of AI generated content on search rankings.
 
 9. **[Mark Williams-Cook]([https://www.linkedin.com/in/markseo/)**](https://www.linkedin.com/in/markseo/)**)
 
    * **Date Added:** June 20, 2026
 
-   * **Annotation:** Founder of AlsoAsked. Combines search intent data with AI automation to capture long-tail B2B queries ethically.
+   * **Annotation:** Founder of Candour. He specializes in SEO and building tools that combine search intent data with AI automation to capture long-tail B2B queries ethically.
 
 10. **[Tommy Griffith]([https://www.linkedin.com/in/tommygriffith/)**](https://www.linkedin.com/in/tommygriffith/)**)
 
     * **Date Added:** June 20, 2026
 
-    * **Annotation:** Founder of ClickMinded (ex-Airbnb SEO). Focuses on the operational side—how to actually build the standard operating procedures (SOPs) for AI SEO teams.
+    * **Annotation:** Founder of ClickMinded, ex-Airbnb SEO. Focuses on the operational side, specifically how to actually build the standard operating procedures (SOPs) for AI SEO teams.
